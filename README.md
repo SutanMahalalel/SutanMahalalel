@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SutanMahalalel
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning pyhton, php
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me @SutanMahalalel
+- 💞️ I’m looking to collaborate on everything
+- 📫 How to reach me smahalalel@gmail.com
 
 <!---
 SutanMahalalel/SutanMahalalel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
